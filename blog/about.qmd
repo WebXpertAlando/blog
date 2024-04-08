@@ -1,0 +1,20 @@
+---
+title: "About"
+image: profile.png
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/VictorAlando
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/VictorOmondi1997
+    - icon: github
+      text: Github
+      href: https://github.com/VwebxpertAlando
+
+---
+
+
+welcome to my blog page. I am a data sciencetist
