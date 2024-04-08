@@ -1,1 +1,3 @@
 # blog
+<hr>
+## About Me 
