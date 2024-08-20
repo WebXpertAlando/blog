@@ -1,3 +1,3 @@
 # blog
 <hr>
-Victor Alando's [blog](https://webxpert.quarto.pub/blog/)
+Victor Alando's [blog](https://alando.quarto.pub/my-blog)
