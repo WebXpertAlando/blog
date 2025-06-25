@@ -1,3 +1,3 @@
-# blog
+# Articles Posts
 <hr>
-Victor Alando's [blog](https://alando.quarto.pub/my-blog)
+Victor Alando's [Posts](https://alando.quarto.pub/my-blog)
